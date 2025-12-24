@@ -15,7 +15,7 @@
 - ⚡ Fun fact I am all rounder
 
 
-This site was built using [GitHub Pages](https://github.com/sachin428zz/sachin428zz/edit/main/README.md)
+This site was built using [GitHub Pages](https://github.com/)
 
 
 
