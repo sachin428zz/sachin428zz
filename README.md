@@ -1,8 +1,7 @@
-# Hi there 👋
-# I am Sachin
+# Hi there 👋 # I am Sachin
 
 
-## A passionate frontend developer from India
+                                                                    ## A passionate frontend developer from India
 
 
 
