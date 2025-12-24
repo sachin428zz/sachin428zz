@@ -19,13 +19,9 @@ A passionate frontend developer from India
 - ⚡ Fun fact I am all rounder
 
 
- ⚒️ Languages-Frameworks-Tools ⚒️
 
+ Thank you for visiting my profile! 😊
 
-
- Thank you for visiting my profile! If you appreciate my work, consider buying me a coffee or tea. 😊
-
-Buy Me A Coffee
 
 ⚡️Stay awesome!⚡️
 
