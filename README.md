@@ -1,10 +1,9 @@
 # Hi there 👋 I am Sachin
 
 
-##                                 A passionate frontend developer from India
+##                                 **A passionate frontend developer from India**
 
-
--🔭 I’m currently working on My Development Skills
+- 🔭 I’m currently working on My Development Skills
 - 🌱 I’m currently learning MERN Stack
 - 👯 I’m looking to collaborate on Frontend Projects
 -👨‍💻 All of my projects are available at my Portfolio
