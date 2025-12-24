@@ -15,7 +15,7 @@
 - ⚡ Fun fact I am all rounder
 
 
-This site was built using [GitHub Pages](https://github.com/)
+Connect with me on [link](https://github.com/)
 
 
 
