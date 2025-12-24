@@ -1,9 +1,7 @@
 # Hi there 👋 I am Sachin
 
 
-                                                ## A passionate frontend developer from India
-
-
+                                       ## A passionate frontend developer from India
 
 
 -🔭 I’m currently working on My Development Skills
