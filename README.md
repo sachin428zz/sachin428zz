@@ -11,7 +11,7 @@
 - 💬 Ask me about any Frontend part
 - 📫 How to reach me sachin3434z@gmail.com
 - 😄 Pronouns he/him
-- ⚡ Fun fact I am all rounder
+- ⚡ Fun fact I am all rounder.
 
 
 Connect with me on [link]()
