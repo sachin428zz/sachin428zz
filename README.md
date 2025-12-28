@@ -14,7 +14,7 @@
 
 - 🚀 Building modern web applications  
 - 🧠 Focused on clean, scalable solutions  
-- 💼 Developer (MERN, Next.js, PostgreSQL, AWS)  
+- 💼 FULL Stack Developer (MERN, Next.js, PostgreSQL, AWS)  
 - 🧩 problems solving
 - 🎯 Passionate about performance & system design  
 
